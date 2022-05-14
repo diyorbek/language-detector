@@ -1,0 +1,3 @@
+#!/bin/bash
+
+g++ main.cpp source/perceptron.cpp source/neural_net.cpp source/helpers.cpp -o main -std=c++17
